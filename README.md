@@ -36,6 +36,6 @@ Font: https://fonts.google.com/specimen/Roboto?query=roboto
 ## Acceptance Criteria
 
 - Using Typescript is mandatory.
-- Test coverage should be above %90.
+- Test coverage should be above 90%.
 - The app should be working and buildable with no errors.
 - There should be individual commits with meaningful commit messages for every step. (Not for every change/update)
