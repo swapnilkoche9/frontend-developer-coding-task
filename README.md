@@ -2,9 +2,9 @@
 
 ## Brief
 
-The goal is to create a weather app, that shows the weather forecast for a given city. We recommend to either use https://openweathermap.org/api or create a mock api, for instance via https://github.com/typicode/json-server
+The goal is to create a weather app that shows the weather forecast for a given city. We recommend to either use https://openweathermap.org/api or create a mock api, for instance via https://github.com/typicode/json-server
 
-Please fork this repository and apply your solution into it. Once you are done you can share it with us. We are expecting you to finish this task in one week but if you think you will not be able to deliver the solution in time, you can contact us and ask for more time.
+Please fork this repository and apply your solution into it. Once you are done you can share it with us. We are expecting you to finish this task in one week but if you think you will not be able to deliver the solution in time, you can contact us and ask for more time. If there is something unclear please feel free to create an issue in this repository.
 
 On the other hand, feel free to add or change the features to improve UX.
 
