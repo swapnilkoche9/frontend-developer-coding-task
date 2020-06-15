@@ -8,13 +8,13 @@ Please fork this repository and apply your solution into it. Once you are done y
 
 **Details**
 
-* The initial city can either be hardcoded or resolved via browser api
-* Days should start at the current day and the next four days should be shown (so five days altogether)
-* Background gradient should change based on temperatur:
-  * Teal shades for less than 15°C 
-  * Orange shades for greater or equal than 15°C
-* The content should have a blur effect when the city input field gets focused
-* In case there is no result for a given city name, an error message should be shown. There are no design specifications for this error message. It's on you to create and style this in a suitable way
+- The initial city can either be hardcoded or resolved via browser api
+- Days should start at the current day and the next four days should be shown (so five days altogether)
+- Background gradient should change based on temperatur:
+  - Teal shades for less than 15°C
+  - Orange shades for greater or equal than 15°C
+- The content should have a blur effect when the city input field gets focused
+- In case there is no result for a given city name, an error message should be shown. There are no design specifications for this error message. It's on you to create and style this in a suitable way
 
 ## Design
 
@@ -35,7 +35,7 @@ Font: https://fonts.google.com/specimen/Roboto?query=roboto
 - Ramda (Optional)
 - Storybook (Optional)
 
-> Note: Please stick with React's internal APIs to handle state management. 
+> Note: Please stick with React's internal APIs to handle state management.
 > Prefer function components and hooks over class components
 
 ## Checklist
@@ -45,6 +45,8 @@ Font: https://fonts.google.com/specimen/Roboto?query=roboto
 - [ ] Create ui components for the rest
 - [ ] Setup weather api (or implement a mock server)
 - [ ] Wire city input with the api
+- [ ] Create a component for listing weekly weather forecast
+- [ ] Wire that component with the api
 
 ## Acceptance Criteria
 
