@@ -10,7 +10,7 @@ Please fork this repository and apply your solution into it. Once you are done y
 
 - The initial city can either be hardcoded or resolved via browser api
 - Days should start at the current day and the next four days should be shown (so five days altogether)
-- Background gradient should change based on temperatur:
+- Background gradient should change based on temperature:
   - Teal shades for less than 15°C
   - Orange shades for greater or equal than 15°C
 - The content should have a blur effect when the city input field gets focused
