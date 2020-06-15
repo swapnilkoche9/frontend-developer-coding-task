@@ -7,7 +7,8 @@ Build an weather app shows weather forecast for given city. You can either use h
 **Details**
 
 - You can hardcode initial city or you can use the browser api to get location
-- Background gradient color should change based on degree, teal shades for less than 15°C and orange shades for greater then 15°C.
+- The days should start with the current day and in design there are only weekdays, we want you to show weekends too.
+- Background gradient color should change based on the current tempreture, teal shades for less than 15°C and orange shades for greater then 15°C.
 - When city input is focused, the content should have blur filter
 - If there is no result for given city name, there should be an error message. We deliberately did not add this part to the design, we are expecting you to fill this gap.
 
