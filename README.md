@@ -2,15 +2,17 @@
 
 ## Brief
 
-Build an weather app shows weather forecast for given city. You can either use https://openweathermap.org/api or you can create your own mock api by using this https://github.com/typicode/json-server or similar tool of your choice.
+The goal is to create a weather app, that shows the weather forecast for a given city. We recommend to either use https://openweathermap.org/api or create a mock api, for instance via https://github.com/typicode/json-server
 
 **Details**
 
-- You can hardcode initial city or you can use the browser api to get location
-- The days should start with the current day and in design there are only weekdays, we want you to show weekends too.
-- Background gradient color should change based on the current tempreture, teal shades for less than 15°C and orange shades for greater then 15°C.
-- When city input is focused, the content should have blur filter
-- If there is no result for given city name, there should be an error message. We deliberately did not add this part to the design, we are expecting you to fill this gap.
+* The initial city can either be hardcoded or resolved via browser api
+* Days should start at the current day and the next four days should be shown (so five days altogether)
+* Background gradient should change based on temperatur:
+  * Teal shades for less than 15°C 
+  * Orange shades for greater or equal than 15°C
+* The content should have a blur effect when the city input field gets focused
+* In case there is no result for a given city name, an error message should be shown. There are no design specifications for this error message. It's on you to create and style this in a suitable way
 
 ## Design
 
@@ -31,7 +33,8 @@ Font: https://fonts.google.com/specimen/Roboto?query=roboto
 - Ramda (Optional)
 - Storybook (Optional)
 
-> Note: Please stick with React's internal APIs to handle state management. And you will not need class components for this task, prefer function components and hooks.
+> Note: Please stick with React's internal APIs to handle state management. 
+> Prefer function components and hooks over class components
 
 ## Acceptance Criteria
 
