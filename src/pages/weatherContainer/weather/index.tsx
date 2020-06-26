@@ -20,7 +20,7 @@ const Weather: FC<WeatherProps> = ({ children, temperature }) => {
 
 const Wrapper = styled.div<StyledProps>`
   height: 787px;
-  width: 1024px;
+  padding: 30px;
   background: ${(props) =>
     props.temperature < 15
       ? `linear-gradient(-180deg, rgb(176, 247, 220) 0%, rgb(223, 210, 127) 100%)`

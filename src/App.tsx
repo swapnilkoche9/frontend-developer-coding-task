@@ -1,10 +1,10 @@
 import React from "react";
-import logo from "./logo.svg";
+import WeatherContainer from "./pages/weatherContainer";
 
 function App() {
   return (
     <div>
-      <header>welcome</header>
+      <WeatherContainer />
     </div>
   );
 }

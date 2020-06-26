@@ -1,0 +1,62 @@
+{
+  "cities": [
+    {
+      "id": "hamburg",
+      "forecast": [
+        {
+          "date": "1593208800000",
+          "temperature": 16
+        },
+        {
+          "date": "1593122400000",
+          "temperature": 14
+        },
+        {
+          "date": "1593036000000",
+          "temperature": 12
+        },
+        {
+          "date": "1593295200000",
+          "temperature": 40
+        },
+        {
+          "date": "1593381600000",
+          "temperature": 11
+        },
+        {
+          "date": "1593468000000",
+          "temperature": 10
+        }
+      ]
+    },
+    {
+      "id": "berlin",
+      "forecast": [
+        {
+          "date": "1593295200000",
+          "temperature": 15
+        },
+        {
+          "date": "1593122400000",
+          "temperature": 4
+        },
+        {
+          "date": "1593208800000",
+          "temperature": 12
+        },
+        {
+          "date": "1593036000000",
+          "temperature": 10
+        },
+        {
+          "date": "1593381600000",
+          "temperature": 35
+        },
+        {
+          "date": "1593468000000",
+          "temperature": 25
+        }
+      ]
+    }
+  ]
+}
